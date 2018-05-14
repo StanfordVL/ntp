@@ -9,6 +9,7 @@ Abstract: In this work, we propose a novel robot learning framework called Neura
 
 [**Network implementation details**](implementation.pdf)
 
+[**Simulation environment**](https://github.com/StanfordVL/NTP-vat-release)
 
 Click here for video:
 [![Alt text](https://img.youtube.com/vi/THq7I7C5rkk/0.jpg)](https://www.youtube.com/watch?v=THq7I7C5rkk&feature=youtu.be)
